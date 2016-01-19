@@ -35,6 +35,7 @@ if let rate = music.rating {
 //------------------------------------------------
 
 //Nil coalescing operator
+// retorna a variavel que nao esta nula
 
 var stay: String?
 
